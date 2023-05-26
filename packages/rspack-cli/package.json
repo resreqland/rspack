@@ -31,7 +31,6 @@
     "cross-env": "7.0.3",
     "execa": "^5.0.0",
     "internal-ip": "6.2.0",
-    "read-pkg-up": "^9.1.0",
     "source-map-support": "^0.5.19"
   },
   "dependencies": {
@@ -39,7 +38,6 @@
     "@rspack/core": "workspace:*",
     "@rspack/dev-server": "workspace:*",
     "colorette": "2.0.19",
-    "esbuild": "0.17.19",
     "semver": "6.3.0",
     "webpack-bundle-analyzer": "4.6.1",
     "yargs": "17.6.2"
