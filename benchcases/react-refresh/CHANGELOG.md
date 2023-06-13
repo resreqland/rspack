@@ -1,5 +1,12 @@
 # benchmarkcase-rspack-react-refresh
 
+## 1.0.14
+
+### Patch Changes
+
+- Updated dependencies [2475e4a3]
+  - @rspack/cli@0.1.13
+
 ## 1.0.13
 
 ### Patch Changes

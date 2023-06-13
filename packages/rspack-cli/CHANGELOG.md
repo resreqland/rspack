@@ -1,5 +1,13 @@
 # @rspack/cli
 
+## 0.1.13
+
+### Patch Changes
+
+- 2475e4a3: Use devServer proxy configs for the preview command
+  - @rspack/core@0.1.13
+  - @rspack/dev-server@0.1.13
+
 ## 0.1.12
 
 ### Patch Changes

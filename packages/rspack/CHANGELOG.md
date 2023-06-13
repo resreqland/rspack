@@ -1,5 +1,12 @@
 # @rspack/core
 
+## 0.1.13
+
+### Patch Changes
+
+- @rspack/binding@0.1.13
+- @rspack/dev-client@0.1.13
+
 ## 0.1.12
 
 ### Patch Changes
