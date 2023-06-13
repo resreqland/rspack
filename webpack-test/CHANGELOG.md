@@ -1,5 +1,12 @@
 # webpack-test
 
+## 0.0.8
+
+### Patch Changes
+
+- @rspack/binding@0.1.13
+- @rspack/dev-client@0.1.13
+
 ## 0.0.7
 
 ### Patch Changes

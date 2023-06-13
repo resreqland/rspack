@@ -1,7 +1,7 @@
 {
   "name": "webpack-test",
   "private": "true",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "main": "./dist/index.d.ts",
   "scripts": {
@@ -64,7 +64,9 @@
   },
   "jest": {
     "forceExit": true,
-    "setupFiles": ["<rootDir>/setupEnv.js"],
+    "setupFiles": [
+      "<rootDir>/setupEnv.js"
+    ],
     "setupFilesAfterEnv": [
       "<rootDir>/setupTestFramework.js"
     ],
